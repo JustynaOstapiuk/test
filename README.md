@@ -3,10 +3,10 @@
 ## 🎯 Cel
 Krótko: co badam i po co (np. „Które produkty są najbardziej rentowne i jak zmienia się sprzedaż m/m?”).
 
-## 🔧 Stos technologiczny
+## 🔧 Stack technologiczny
 - Excel / SQL (Oracle/MySQL/…)
 - Power BI / Python (pandas, numpy, matplotlib)
-- (opcjonalnie) DAX / Jupyter
+- DAX / Jupyter
 
 ## 🗂️ Dane
 - Źródło: [Kaggle / publiczny dataset] (link)
@@ -29,7 +29,3 @@ Krótko: co badam i po co (np. „Które produkty są najbardziej rentowne i jak
 - Python: `pip install -r requirements.txt` → uruchom notatniki w `/notebooks/`
 - Power BI: otwórz `pbix/plik.pbix` lub obejrzyj screeny w `/assets/`
 
-## ✅ Checklista jakości
-- [x] Reprodukowalny wynik (kroki w README)
-- [x] Opis decyzji analitycznych
-- [x] Źródła danych + licencja
